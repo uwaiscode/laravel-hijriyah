@@ -1,0 +1,17 @@
+{
+    "name": "uwaiscode/laravel-hijriyah",
+    "description": "A simple way to create hijriyah date",
+    "authors": [
+        {
+            "name": "uwaiscode",
+            "email": "tambakdev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mynotepaper\\Greeter\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
