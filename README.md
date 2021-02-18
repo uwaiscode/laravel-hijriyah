@@ -2,6 +2,18 @@
 
 #### A simple way to create hijriyah Date
 
-# Installation
+## Installation
 
-# Usage
+> $ composer require uwaiscode/laravel-hijriyah
+
+
+## Usage
+
+### Example
+
+```
+use Uwaiscode\Laravelhijriyah\Hijriyah;
+
+Hijriyah::getDate(today());
+
+```
