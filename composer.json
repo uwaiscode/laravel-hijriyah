@@ -9,9 +9,9 @@
     ],
     "autoload": {
         "psr-4": {
-            "Mynotepaper\\Greeter\\": "src/"
+            "Uwaiscode\\Laravelhijriyah\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "MIT",
     "require": {}
 }
